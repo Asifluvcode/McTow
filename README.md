@@ -5,7 +5,7 @@
 
   <p>A <b>McTow</b> is a Vehicle Breakdown Management  Service provider that allows users to search and book available mechanics to get the service on the go.</p>
 
-👉 Live Demo: <a href='https://alisprofile.github.io/Depth/'>Live Demo</a>
+👉 Live Demo: <a href='https://mctow.vercel.app/'>Live Demo</a>
 
 <h3>Build with:</h3>
 
